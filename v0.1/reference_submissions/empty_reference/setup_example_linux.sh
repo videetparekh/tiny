@@ -8,6 +8,6 @@ else
 
 #cd $(dirname $0)
   cp -r ../../api .
-  cp -r ../../main.cc .
+  cp -r ../../main.cpp .
   cp -r ../../util .
 fi
